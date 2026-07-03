@@ -27,7 +27,7 @@ function Education() {
           </p>
 
           <p className="text-gray-300 mt-2">
-            CGPA: <span className="text-cyan-400 font-semibold">8.28</span>
+            CGPA: <span className="text-cyan-400 font-semibold">8.32</span>
           </p>
         </div>
       </div>
