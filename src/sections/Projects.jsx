@@ -11,7 +11,7 @@ const projects = [
       "An e-commerce application for purchasing eggs online with authentication, shopping cart, and responsive UI.",
     tech: ["React", "Node.js", "Express", "MongoDB"],
     github: "https://github.com/Balaji-5656",
-    live: "https://eggbasket-frontend.onrender.com",
+    live: "https://eggbasket-backend.onrender.com",
   },
   {
   title: "Weather Application",
